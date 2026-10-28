@@ -13,3 +13,10 @@
 
 ### Environment Configuration
 Configure the required environment variables in the `.env` files before running the application. Use valid MongoDB Atlas settings for the backend database connection.
+## Screenshots
+
+### Dashboard
+![Job Application Tracker Dashboard](screenshots/dashboard.png)
+
+### Application Form
+![Add Job Application Form](screenshots/application-form.png)
